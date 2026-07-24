@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0036-valid-sudoku) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
