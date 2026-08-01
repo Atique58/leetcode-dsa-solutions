@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
