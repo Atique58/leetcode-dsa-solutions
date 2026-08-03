@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0877-stone-game](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1406-stone-game-iii) |
 | [1929-concatenation-of-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -85,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1406-stone-game-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,8 +121,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1406-stone-game-iii) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1929-concatenation-of-array) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
