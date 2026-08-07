@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0877-stone-game) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1929-concatenation-of-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
