@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1140-stone-game-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1406-stone-game-iii) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1406-stone-game-iii) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1406-stone-game-iii) |
@@ -151,11 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
@@ -186,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
