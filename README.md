@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1140-stone-game-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
