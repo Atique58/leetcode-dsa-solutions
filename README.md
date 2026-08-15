@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1140-stone-game-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
 ## Game Theory
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
