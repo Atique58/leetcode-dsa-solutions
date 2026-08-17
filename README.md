@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0189-rotate-array) |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0155-min-stack) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
