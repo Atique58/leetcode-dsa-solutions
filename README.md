@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0242-valid-anagram) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1768-merge-strings-alternately) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Divide and Conquer
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -236,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0268-missing-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
