@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1140-stone-game-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1406-stone-game-iii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/3731-find-missing-elements) |
