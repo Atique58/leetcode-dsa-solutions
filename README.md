@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0877-stone-game) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0605-can-place-flowers) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
