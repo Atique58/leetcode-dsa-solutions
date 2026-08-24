@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0268-missing-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0485-max-consecutive-ones) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0605-can-place-flowers) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
