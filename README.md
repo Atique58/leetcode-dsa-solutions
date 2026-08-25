@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
