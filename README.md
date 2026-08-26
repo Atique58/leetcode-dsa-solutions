@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0242-valid-anagram) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1768-merge-strings-alternately) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
