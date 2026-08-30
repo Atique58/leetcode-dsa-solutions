@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1470-shuffle-the-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0392-is-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
