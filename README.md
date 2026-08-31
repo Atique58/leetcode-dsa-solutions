@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0217-contains-duplicate) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0268-missing-number) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0242-valid-anagram) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -269,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
