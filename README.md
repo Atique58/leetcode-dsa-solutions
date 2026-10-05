@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/3731-find-missing-elements) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/1768-merge-strings-alternately) |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Atique58/leetcode-dsa-solutions/tree/master/0704-binary-search) |
 ## Greedy
 |  |
